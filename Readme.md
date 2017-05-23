@@ -1,1 +1,1 @@
-Привет
+Privet, adaptive Ветка
